@@ -1,6 +1,5 @@
 # Prometne nesreče v Sloveniji
 
-![OPSI LOGO](https://e-uprava.gov.si/dam/jcr:96087a3d-7c0c-406b-aaf3-83c9a6111a79/OPSI-LOGO-SMALL.jpg)
 ### [OPSI (Odprti podatki Slovenije)](https://podatki.gov.si/)
 
 
@@ -15,6 +14,8 @@ OPSI ima dvojno funkcijo:
 Portal OPSI poleg podatkov državnih organov vključuje tudi objavo odprtih podatkov lokalnih skupnosti. Portal zagotavlja vsem pravico do brezplačne in enostavne ponovne uporabe tistih prosto dostopnih podatkov, ki so objavljeni na način "odprtih podatkov" in sicer za katerikoli (neprofitni/profitni) namen.
 
 Za odprte podatke, ki so objavljeni na portalu, velja pravilo "odprte licence" (edini pogoj ponovne uporabe je navedba vira; CC BY 4.0). 
+
+![OPSI LOGO](https://e-uprava.gov.si/dam/jcr:96087a3d-7c0c-406b-aaf3-83c9a6111a79/OPSI-LOGO-SMALL.jpg)
 
 ### Opis podatkov
 
