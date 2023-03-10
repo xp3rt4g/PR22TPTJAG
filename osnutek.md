@@ -1,6 +1,8 @@
 # Prometne nesreče v Sloveniji
 
-### OPSI (Odprti podatki Slovenije)
+![OPSI LOGO](https://e-uprava.gov.si/dam/jcr:96087a3d-7c0c-406b-aaf3-83c9a6111a79/OPSI-LOGO-SMALL.jpg)
+### [OPSI (Odprti podatki Slovenije)](https://podatki.gov.si/)
+
 
 OPSI predstavlja enotno nacionalno spletno točko za objavo odprtih podatkov za celotni javni sektor Republike Slovenije.
 
@@ -16,21 +18,25 @@ Za odprte podatke, ki so objavljeni na portalu, velja pravilo "odprte licence" (
 
 ### Opis podatkov
 
-Za področje prometne varnosti je na voljo ena datoteka na leto med letoma 2009 in 2022. Združuje prometne nesreče in osebe, ki nastopajo v prometnih nesrecah kot povzročitelji ali oškodovanci udeleženci. Podatki se v CSV datoteko izvozijo enkrat letno in sicer drugi vikend v februarju za preteklo leto. V datoteki so zajete vse prometne nesreče, pri ogledu katerih je sodelovala policija, zgodile pa so se v obravnavanem obdobju.
+Za področje prometne varnosti je na voljo ena datoteka na leto, med letoma 2009 in 2022. Združuje prometne nesreče in osebe, ki nastopajo v prometnih nesrečah kot povzročitelji ali oškodovani udeleženci. Podatki se v urejeno tabelo formata CSV izvozijo enkrat letno in sicer drugi vikend v februarju za preteklo leto. V datoteki so zajete vse prometne nesreče, pri ogledu katerih je sodelovala policija in so se zgodile v obravnavanem obdobju.
 
 ## Raziskava
 
 Poglobili se bomo v tematiko prometne varnosti, in sicer prometnih nesreč. Zanima nas predvsem, kaj so najpogostejši razlogi za nastanek prometnih nesreč, spol in startost povzročiteljev oz. udeležencev, stopnje prometnih nesreč, stanje vozišča prometne nesreče, kraj prometne nesreče in število prometnih nesreč glede na regije. Podatke bomo združili po letih in jih med sabo primerjali.
 
-### Glavni cilji/vprašanja raziskave
+### Glavna vprašanja raziskave
 
-> 1) Kaj je najpogostejši razlog, da pride do prometne nesreče?
-> 2) Sprememba starosti povzročiteljev prometnih nesreč skozi leta
-> 3) Ali število hudih prometnih nesreč pada ali narašča?
-> 4) V kateri regiji pride do največ prometnih nesreč?
-> 5) Ali uporaba varnostnega pasu narašča?
-> 6) Možnost nesreče s hudo telesno poškodbo pri uporabi oz. neuporabi varnostnega pasu?
-> 7) Ali število vinjenih povzročiteljev prometnih nesreč pada ali narašča?
-> 8) V katerem delu dneva se zgodi največ prometnih nesreč?
-> 9) Vpliv gostote prometa na število in stopnjo prometne nesreče.
-> 10) Kako vpliva spol na povzročitev prometne nesreče pri mldaih voznikih (vozniški staz je krajši od dveh let)?
+> 1. Kaj je najpogostejši razlog, da pride do prometne nesreče? 
+>    - *Morebitna korelacija med starostjo in razlogom*
+> 2. Sprememba starosti povzročiteljev prometnih nesreč skozi leta.
+> 3. Ali število hudih prometnih nesreč pada ali narašča?
+> 4. V kateri regiji pride do največ prometnih nesreč?
+>    - *Morebitna korelacija med regijo in starostjo*
+> 5. Ali se uporaba varnostnega pasu spreminja?
+>    - *Verjetnost hude poškodbe pri neuporabi varnostnega pasu*
+> 6. Ali število vinjenih povzročiteljev prometnih nesreč pada ali narašča? 
+>    - *Morebitna korelacija med regijo in opitostjo*
+> 7. V katerem delu dneva se zgodi največ prometnih nesreč?
+> 8. Vpliv gostote prometa na število in stopnjo prometne nesreče.
+> 9. Kako vpliva spol na povzročitev prometne nesreče pri mldaih voznikih (vozniški staz je krajši od dveh let)?
+>    - *Predpostavka: korelacija med spolom in povzročitvijo nesreče se pojavi samo pri mladih voznikih*
