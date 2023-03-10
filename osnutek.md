@@ -28,15 +28,15 @@ Poglobili se bomo v tematiko prometne varnosti, in sicer prometnih nesreč. Zani
 ### Glavna vprašanja raziskave
 
 > 1. Kaj je najpogostejši razlog, da pride do prometne nesreče? 
->    - *Morebitna korelacija med starostjo in razlogom*
+>    - *Korelacija med starostjo in razlogom*
 > 2. Sprememba starosti povzročiteljev prometnih nesreč skozi leta.
 > 3. Ali število hudih prometnih nesreč pada ali narašča?
 > 4. V kateri regiji pride do največ prometnih nesreč?
->    - *Morebitna korelacija med regijo in starostjo*
+>    - *Korelacija med regijo in starostjo*
 > 5. Ali se uporaba varnostnega pasu spreminja?
 >    - *Verjetnost hude poškodbe pri neuporabi varnostnega pasu*
 > 6. Ali število vinjenih povzročiteljev prometnih nesreč pada ali narašča? 
->    - *Morebitna korelacija med regijo in opitostjo*
+>    - *Korelacija med regijo in opitostjo*
 > 7. V katerem delu dneva se zgodi največ prometnih nesreč?
 > 8. Vpliv gostote prometa na število in stopnjo prometne nesreče.
 > 9. Kako vpliva spol na povzročitev prometne nesreče pri mldaih voznikih (vozniški staz je krajši od dveh let)?
