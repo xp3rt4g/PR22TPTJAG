@@ -70,3 +70,10 @@ Podatke smo za vsa leta smo združili v dataframe in naredili vizualizacijo za:
 - primerjava uporabe varnostnega pasu
 - procent uporabe varnostnega pasu
 - število prometnih nesreč s hudim izidom po letih
+
+#### Procent alkoholiziranih
+![% graph](/graphs/alkoholizirani_procent.png)
+
+#### Procent pripasanih
+![% graph](/graphs/pripasani_procent.png)
+
